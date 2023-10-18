@@ -83,7 +83,10 @@ click image to display video
 
 
 
-https://github.com/Forbidi/Albion-Online-Bot/assets/29312029/70d7a7a9-b829-4d1d-94e3-8dd207775657
+https://github.com/Forbidi/Albion-Online-Bot/assets/29312029/5a253f4c-d8a5-4cc0-bda4-e8c9f594e587
+
+
+
 
 ## Discord Server
 https://discord.com/invite/PtRgRdKh8r
