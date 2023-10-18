@@ -1,4 +1,4 @@
-u# Private Albion-Online-Bot
+# Private Albion-Online-Bot
 Albion Online Bot &amp; cheat, Gathering, Fishing, Full Optimized Combat Bot.
 
 [![Discord](https://img.shields.io/discord/972965077496000552)](https://discord.gg/PtRgRdKh8r)
