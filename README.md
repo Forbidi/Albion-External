@@ -1,9 +1,9 @@
 # Private Albion-Online-Bot
 Albion Online Bot &amp; cheat, Gathering, Fishing, Full Optimized Combat Bot.
 
-[![Discord](https://img.shields.io/discord/972965077496000552)](https://discord.gg/PtRgRdKh8r)
+[![Discord](https://img.shields.io/discord/972965077496000552)](https://discord.gg/pQZYd8sGqF)
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)
-![Version](https://img.shields.io/badge/version-1.2.0-blue.svg)
+![Version](https://img.shields.io/badge/version-1.3.0-blue.svg)
 
 
 ## Features
@@ -88,4 +88,4 @@ https://github.com/Forbidi/Albion-Online-Bot/assets/29312029/5a253f4c-d8a5-4cc0-
 
 
 ## Discord Server
-https://discord.com/invite/PtRgRdKh8r
+https://discord.gg/pQZYd8sGqF
