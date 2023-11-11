@@ -1,3 +1,5 @@
+https://github.com/Forbidi/Albion-Online-Bot/assets/29312029/5a253f4c-d8a5-4cc0-bda4-e8c9f594e587
+
 # Private Albion-Online-Bot
 Albion Online Bot &amp; cheat, Gathering, Fishing, Full Optimized Combat Bot.
 
@@ -77,11 +79,16 @@ The latest version can be downloaded [here](https://github.com/Forbidi/Albion-On
 ## Media
 click image to display video
 
-[<img src="https://user-images.githubusercontent.com/29312029/275824980-ef7e588a-4e53-45be-add6-7a3cb8a1c479.png" width="100%">](https://drive.google.com/file/d/1d9bdABoeF1uC9g4JaNCMffenhxXM07pO/view "Showcase")
+[![Albion Online HCE Bot & cheats 1.0.34.447](https://img.youtube.com/vi/nAPo-gxFxUo/0.jpg)](https://www.youtube.com/watch?v=nAPo-gxFxUo)
+
+[![Albion Online PVE God mode / 1.0.34.447](https://img.youtube.com/vi/XGRSQsTtY80/0.jpg)](https://www.youtube.com/watch?v=XGRSQsTtY80)
+
+[![Albion Online Bot - EAC Bypass 1.0.34.447](https://img.youtube.com/vi/fmZzllVC82Q/0.jpg)](https://www.youtube.com/watch?v=fmZzllVC82Q)
+
+[![Albion Online God mode PVE Ver. 1.0.34.447](https://img.youtube.com/vi/NfCAejYyg_I/0.jpg)](https://www.youtube.com/watch?v=NfCAejYyg_I)
 
 
 
-https://github.com/Forbidi/Albion-Online-Bot/assets/29312029/5a253f4c-d8a5-4cc0-bda4-e8c9f594e587
 
 
 
