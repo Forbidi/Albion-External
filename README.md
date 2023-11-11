@@ -12,7 +12,7 @@ Albion Online Bot &amp; cheat, Gathering, Fishing, Full Optimized Combat Bot.
 
 ```fix
 
--) Stream Proof
+-) Stream Proof (Discord, OBS, Steamlabs, Tiktok)
 -) Multi-Instances
 
 -) Combat PVE
