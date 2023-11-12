@@ -82,4 +82,4 @@ click image to display video
 
 
 ## Discord Server
-https://discord.gg/pQZYd8sGqF
+[Join our Discord community](https://discord.gg/pQZYd8sGqF)
