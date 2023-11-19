@@ -8,6 +8,12 @@ Albion Online Bot & cheat, Gathering, Fishing, Full Optimized Combat Bot.
 
 ## APK
 
+https://github.com/Forbidi/Albion-Online-Bot/assets/29312029/4ccc741c-dcc4-4319-8340-d57f628b885e
+
+
+https://github.com/Forbidi/Albion-Online-Bot/assets/29312029/f86cf393-e68e-4122-b444-c3c28bd6807b
+
+
 [Ver. 1.23.011.265223](https://www.mediafire.com/file/cxxnm7b1yi61kfg/Albion-Online.apk/file)
 
 
